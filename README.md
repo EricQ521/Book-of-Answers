@@ -4,3 +4,4 @@
 
 仅供娱乐
 详见:https://github.com/EricQ521/Book-of-Answers/wiki
+博客：www.eqshare521.wordpress.com
